@@ -6,7 +6,7 @@
 #    By: rbaum <rbaum@student.42.fr>                +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2015/03/12 17:20:35 by rbaum             #+#    #+#              #
-#    Updated: 2016/04/08 20:19:56 by rbaum            ###   ########.fr        #
+#    Updated: 2016/04/14 18:13:23 by rbaum            ###   ########.fr        #
 #                                                                              #
 #******************************************************************************#
 
@@ -15,7 +15,7 @@
 
 CC =			gcc
 
-CFLAG =			-Wall -Wextra -Werror -g
+CFLAG =			-Wall -Wextra -Werror
 
 NAME =			rt_v1
 

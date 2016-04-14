@@ -6,14 +6,14 @@
 /*   By: rbaum <rbaum@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2016/03/14 14:30:22 by rbaum             #+#    #+#             */
-/*   Updated: 2016/03/14 14:30:29 by rbaum            ###   ########.fr       */
+/*   Updated: 2016/04/14 18:13:42 by rbaum            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef MISC_H
 # define MISC_H
 
-# include "../minilibx_macos/mlx.h"
+# include "mlx.h"
 # include <math.h>
 # include <time.h>
 # include "../libft/inc/libft.h"
