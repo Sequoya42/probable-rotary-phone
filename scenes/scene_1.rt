@@ -1,0 +1,47 @@
+
+#color : red green blue reflection
+#position : x y z
+
+NM 3
+NS 3
+NL 3
+
+###
+
+MATERIAL:
+1, 0, 0
+0.2
+0, 1, 0
+0.5
+0, 0, 1
+0.9
+
+###
+
+SPHERE:
+position
+200, 300, 0
+400, 400, 0
+500, 140, 0
+rayon
+100
+100
+100
+material
+1
+2
+3
+
+###
+
+LIGHT:
+position
+0, 240, -100
+3200, 3000, -1000
+600, 0, -100
+color
+1, 1, 1
+0.6, 0.7, 1
+0.3, 0.5, 1
+
+###
